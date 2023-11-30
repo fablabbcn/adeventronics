@@ -7,10 +7,12 @@ repo_url: 'https://github.com/JosepMartiElias/adventronics/'
 nav:
   - Home:
     - index.md
+  - Barduino:
+    - barduino.md
   - How to particpate?:
     - howto.md
-  - Solutions:
-    - Day 1: solutions/01/01.md
+#  - Solutions:
+#    - Day 1: solutions/01/01.md
   - Solution template:
     - template.md
 

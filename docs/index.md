@@ -6,11 +6,8 @@ hide:
 
 # Adventronics Calendar Challenge
 
-Missing introduction here.
-
-!!! note annotate "1. Light me up! :light_bulb: (1)"
-    [Check the solution](solutions/01/01.md)
-1.  Maybe you can blink the Barduino LED
+!!! note annotate "1. Light me up! (1)"
+1.  :light_bulb:
 
 !!! tip annotate "2. Say cheeeeese! :cheese: (1)"
 1. Be creative
