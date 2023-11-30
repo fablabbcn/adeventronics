@@ -7,6 +7,7 @@ hide:
 # Adventronics Calendar Challenge
 
 !!! note annotate "1. Light me up! (1)"
+    [Day 01](solutions/01/01.md)
 1.  :light_bulb:
 
 !!! tip annotate "2. Say cheeeeese! :cheese: (1)"
@@ -78,3 +79,5 @@ hide:
 !!! question annotate "24. Caga tioino (1)"
 1. Don't forget I'm from Barcelona!
  
+
+Made with :purple_heart: from Fablab Barcelona :hammer_and_wrench:

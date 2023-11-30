@@ -2,7 +2,8 @@ site_name: Adventronics Calendar
 site_description: Adventronics Calendar
 site_author: Future Learning Unit (FLU)
 repo_name: 'Adventronics Calendar'
-repo_url: 'https://github.com/JosepMartiElias/adventronics/'
+repo_url: 'https://github.com/fablabbcn/adventronics/'
+copyright: 'Copyleft 2023 FLB - GNU Free Documentation License'
 
 nav:
   - Home:
@@ -11,8 +12,8 @@ nav:
     - barduino.md
   - How to particpate?:
     - howto.md
-#  - Solutions:
-#    - Day 1: solutions/01/01.md
+  - Solutions:
+    - Day 1: solutions/01/01.md
   - Solution template:
     - template.md
 
@@ -28,7 +29,7 @@ theme:
       warning: material/cookie
       bug: material/candle
       example: material/snowflake
-  logo: images/Barduino4.svg
+  logo: images/flb.svg
   favicon: images/Barduino4.svg
   features:
     - instant

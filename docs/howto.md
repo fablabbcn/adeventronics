@@ -11,11 +11,11 @@ Embark on a dynamic journey with our Adventronics Calendar – an electrifying t
 ## Progress
 
 To track your progress, share a video or photo in our dedicated [Telegram](
-https://t.me/+DbXVZ22VOkI3NDVk) group using the hashtag #AdventronicsDay followed by the day's number (e.g., #AdventronicsDay05). Utilize this group to seek guidance, pose questions, and exchange insights with the vibrant community of participants. Get ready for 24 days of innovation, learning, and festive fun! 🎄⚡️
+https://t.me/+DbXVZ22VOkI3NDVk) group using the hashtag #AdventronicsDay followed by the day's number (e.g., #AdventronicsDay05). Utilize this group to seek guidance, pose questions, and exchange insights with the vibrant community of participants. Get ready for 24 days of innovation, learning, and festive fun! :christmas_tree: :high_voltage:
 
 ## Social media
 
-You can share it on social media tagging @fablabbcn and using the hashtag #adventronics and we will repost so we can have a collection of challenges. 
+You can share it on social media tagging **@fablabbcn** and using the hashtag **#adventronics** and/or **#barduino** and we will repost so we can have a collection of challenges. 
 
 ## Schedule
 
